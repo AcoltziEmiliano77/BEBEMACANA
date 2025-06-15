@@ -1,2 +1,4 @@
 print("Hola mundo chavalines")
-print("hola menso de rivelino")
+print("Jhoana y Bebe son mis chamacos")
+print("WAZAAAAA")
+
